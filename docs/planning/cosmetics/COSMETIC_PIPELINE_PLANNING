@@ -1,0 +1,97 @@
+# COSMETIC_BUNDLES_PLANNING
+
+---
+
+## 🎯 Purpose
+Define the Cosmetic Bundles system, which packages multiple cosmetics into themed, seasonal, or prestige‑aligned bundles purchasable with EndlessCoin or EndlessGold. Bundles are cosmetic‑only, non‑exploitative, and designed to reward engagement without introducing pressure or FOMO.
+
+---
+
+# 1. Goals
+- Provide high‑value cosmetic bundles  
+- Support seasonal, prestige, and event‑based themes  
+- Maintain fairness and transparency  
+- Integrate with EndlessDeals, EndlessPass, and Membership  
+- Ensure bundles remain cosmetic‑only  
+
+---
+
+# 2. Personas
+- **Player:** Wants themed bundles at good value  
+- **Collector:** Wants exclusive or seasonal bundles  
+- **Platform:** Needs predictable bundle rotation and pricing  
+
+---
+
+# 3. User Stories
+- *As a player, I want bundles that feel rewarding and thematic.*  
+- *As a collector, I want seasonal bundles that match events.*  
+- *As the platform, I want bundles that are fair and non‑exploitative.*  
+
+---
+
+# 4. Core Capabilities
+- Bundle creation  
+- Bundle rarity tiers  
+- Seasonal bundles  
+- Prestige bundles  
+- EndlessCoin and EndlessGold pricing  
+- Rotation scheduling  
+- Cross‑game compatibility  
+
+---
+
+# 5. Workflows
+
+### **5.1 Bundle Creation Workflow**
+1. Designer selects theme (seasonal, prestige, event)  
+2. Cosmetics chosen from catalog  
+3. Pricing rules applied  
+4. Bundle published to catalog  
+
+### **5.2 Purchase Workflow**
+1. Player selects bundle  
+2. System checks currency  
+3. Purchase validated  
+4. Cosmetics delivered to inventory  
+
+---
+
+# 6. Rules & Constraints
+- No gameplay advantage  
+- No loot boxes  
+- No randomized contents  
+- No UGC  
+- All bundles must be preset‑based  
+- All bundles must be reversible and logged  
+
+---
+
+# 7. Deep Dive
+
+### **7.1 Bundle Types**
+- **Seasonal Bundles:** Holiday, summer, anniversary  
+- **Prestige Bundles:** High‑rarity, long‑term progression  
+- **Event Bundles:** Limited‑time events  
+- **Starter Bundles:** New player onboarding  
+- **Collector Bundles:** High‑value cosmetic packs  
+
+### **7.2 Pricing Philosophy**
+- Transparent  
+- Fair  
+- Cosmetic‑only  
+- No pressure mechanics  
+
+### **7.3 Integration Points**
+- EndlessDeals  
+- EndlessPass  
+- Membership  
+- Seasonal events  
+
+---
+
+# 8. Success Criteria
+- Bundles feel rewarding and thematic  
+- No pay‑to‑win perception  
+- Strong cosmetic engagement  
+- Predictable, stable cosmetic economy  
