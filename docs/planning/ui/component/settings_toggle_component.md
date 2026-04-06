@@ -1,0 +1,3 @@
+# settings_toggle_component
+
+...existing content...
